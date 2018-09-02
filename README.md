@@ -12,3 +12,5 @@ on how to use Git and GitHub together.
 ## Additional Details
 
 This website is now being edited by someone else. 
+
+:)
